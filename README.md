@@ -1,4 +1,4 @@
-# OpenUX-Specification
+# OpenUI-Specification
 
 Our project is an ambitious and valuable endeavor in the realm of UI/UX development. By focusing on creating a Domain-Specific Language (DSL) that articulates UI/UX interfaces in a framework and language-agnostic manner, you aim to streamline and standardize the process of frontend development. This approach emphasizes the user experience over the user interface, allowing for flexibility in design and implementation. It's innovative because it separates the UX design's logical and functional aspects from the aesthetic, enabling designers and developers to work more efficiently and adaptively.
 
@@ -12,4 +12,4 @@ We believe in a seamless, efficient, and flexible design process that empowers d
 
 ### Overview:
 
-Welcome to OpenUX, the future of frontend development. Our unique Domain-Specific Language allows you to fully describe and implement UI/UX interfaces in a technology-neutral manner, focusing on user experience rather than design limitations. Whether you're working with React, Vue, Angular, or any other framework, our specification adapts to your preferred tools and workflows. Transform your design process with the flexibility to apply any graphical design at any phase of development, ensuring a seamless and robust user experience from start to finish.
+Welcome to OpenUI, the future of frontend development. Our unique Domain-Specific Language allows you to fully describe and implement UI/UX interfaces in a technology-neutral manner, focusing on user experience rather than design limitations. Whether you're working with React, Vue, Angular, or any other framework, our specification adapts to your preferred tools and workflows. Transform your design process with the flexibility to apply any graphical design at any phase of development, ensuring a seamless and robust user experience from start to finish.
